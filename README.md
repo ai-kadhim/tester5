@@ -8,7 +8,7 @@
 
 Welcome to the beginning of your journey to becoming an LLM Operations (LLMOps) Engineer! 🎉 Follow these steps to get your development environment teed up! After you've finished this set-up, feel free to go through the associated `Whodunit?`! 🕵️
 
-![ai_kadhim_machine_learning_city_murder_mystery_34a7a735-c789-4acb-92a0-d729860fa00f](https://github.com/AI-Maker-Space/whodunit/assets/37101144/a03950ae-9d35-4a16-afe4-2d892b2a039d)
+![ai_kadhim_machine_learning_city_murder_mystery_34a7a735-c789-4acb-92a0-d729860fa00f](https://github.com/AI-Maker-Space/whodunit/assets/37101144/fddd9dca-ecab-47ad-a7b9-9aacb9b6f29d)
 
 
 A murder has been a committed in ML City at the Pandas Express!
